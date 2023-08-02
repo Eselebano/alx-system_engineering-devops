@@ -1,1 +1,2 @@
-Writes absolute path name of working directory
+#!/bin/bash
+pwd
